@@ -1,3 +1,3 @@
-def ad(a:Int):Unit{
+def ad(a:Int):Unit={
   return "₹"
 }
